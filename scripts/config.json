@@ -1,0 +1,7 @@
+{
+    "api_key": "your_api_key",
+    "embed_model": "bge-m3:567m-fp16",
+    "llm_model": "deepseek-chat",
+    "persist_dir": "index/vector_store",
+    "top_k": 3
+}
